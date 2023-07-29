@@ -1,0 +1,35 @@
+.nav-link{
+    color: white;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: #0b5ed7;
+}
+.nav-link:visited{
+    color:white;
+}
+.nav-link:visited:hover{
+    color:#0b5ed7;
+}
+
+@media (max-width: 767px) {
+    nav {
+      height: 18rem; /* Remove the quotation marks */
+    }
+  }
+
+@media (max-width: ){
+    nav{
+        height:6rem;
+    }
+}
+
+/* Navbar.css */
+.navbar-nav .nav-link {
+    color: white;
+  }
+  
+  /* Styles for mobile screens */
+  
+  
+  
